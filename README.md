@@ -9,7 +9,7 @@ Modpack includes:
 - [Cloud Client](https://cloudmc.dev) [(Source Code)](https://github.com/CloudClientDev/cloudclient)
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) [(Source Code)](https://github.com/tr7zw/3d-Skin-Layers)
 - [EntityCulling](https://modrinth.com/mod/entityculling) [(Source Code)](https://github.com/tr7zw/EntityCulling)
-- [FoamFix](https://modrinth.com/mod/foamfix) [(https://github.com/asiekierka/FoamFix)]
+- [FoamFix](https://modrinth.com/mod/foamfix) [(Source Code)](https://github.com/asiekierka/FoamFix)
 - [Replay Mod](https://modrinth.com/mod/replaymod) [(Source Code)](https://github.com/ReplayMod/ReplayMod)
 - [BetterChat](https://modrinth.com/mod/betterchat) [(Source Code)](https://github.com/LlamaLad7/Better-Chat)
 - [Fullscreen Windowed](https://www.curseforge.com/minecraft/mc-mods/fullscreen-windowed-borderless-for-minecraft) [(Source Code)](https://github.com/hancin/Fullscreen-Windowed-Minecraft)
