@@ -2,7 +2,7 @@
 
 This is the GitHub page for [The Cloud Client Experience](https://modrinth.com/modpack/the-cloud-client-experience), my modpack.
 
-# Mods
+## Mods
 
 Modpack includes:
 - [Forge 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) [(Source Code)](https://github.com/MinecraftForge/MinecraftForge)
