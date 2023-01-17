@@ -14,3 +14,4 @@ Modpack includes:
 - [BetterChat](https://modrinth.com/mod/betterchat) [(Source Code)](https://github.com/LlamaLad7/Better-Chat)
 - [Fullscreen Windowed](https://www.curseforge.com/minecraft/mc-mods/fullscreen-windowed-borderless-for-minecraft) [(Source Code)](https://github.com/hancin/Fullscreen-Windowed-Minecraft)
 - [Ping!](https://www.curseforge.com/minecraft/mc-mods/chat-ping) [(Source Code)](https://github.com/elifoster/ping)
+- [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) [(Source Code)](https://github.com/Guichaguri/BetterFps)
