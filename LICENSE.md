@@ -2,8 +2,6 @@
 
 Copyright (c) 2023 JuxGD/replicat
 
-###### (LICENSE file modified to be a .md file, to make it nicer to read :D. Permissions granted by the license still the same.)
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
